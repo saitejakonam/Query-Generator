@@ -27,10 +27,10 @@
 - Run the app: streamlit run app.py
 
 ### 1. App Interface
-![App Interface](images/1.png)
+![App Interface](1.png)
 
 ### 2. SQL Query Generation
-![SQL Query Generation](images/2.png)
+![SQL Query Generation](2.png)
 
 ### 3. Query Results
-![Query Results](images/3.png)
+![Query Results](3.png)
